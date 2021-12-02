@@ -1,0 +1,23 @@
+C:\Users\Mr_Deluxy\Desktop\7mo Semestre 2020A\S - Seminario de Traductores II\Actividad 3\ProyectoFinal_AkinatorMarvel\ProyectoFinal_AkinatorMarvel\bin\Debug\ProyectoFinal_AkinatorMarvel.exe.config
+C:\Users\Mr_Deluxy\Desktop\7mo Semestre 2020A\S - Seminario de Traductores II\Actividad 3\ProyectoFinal_AkinatorMarvel\ProyectoFinal_AkinatorMarvel\bin\Debug\ProyectoFinal_AkinatorMarvel.exe
+C:\Users\Mr_Deluxy\Desktop\7mo Semestre 2020A\S - Seminario de Traductores II\Actividad 3\ProyectoFinal_AkinatorMarvel\ProyectoFinal_AkinatorMarvel\bin\Debug\ProyectoFinal_AkinatorMarvel.pdb
+C:\Users\Mr_Deluxy\Desktop\7mo Semestre 2020A\S - Seminario de Traductores II\Actividad 3\ProyectoFinal_AkinatorMarvel\ProyectoFinal_AkinatorMarvel\obj\Debug\ProyectoFinal_AkinatorMarvel.csprojResolveAssemblyReference.cache
+C:\Users\Mr_Deluxy\Desktop\7mo Semestre 2020A\S - Seminario de Traductores II\Actividad 3\ProyectoFinal_AkinatorMarvel\ProyectoFinal_AkinatorMarvel\obj\Debug\ProyectoFinal_AkinatorMarvel.Form1.resources
+C:\Users\Mr_Deluxy\Desktop\7mo Semestre 2020A\S - Seminario de Traductores II\Actividad 3\ProyectoFinal_AkinatorMarvel\ProyectoFinal_AkinatorMarvel\obj\Debug\ProyectoFinal_AkinatorMarvel.Properties.Resources.resources
+C:\Users\Mr_Deluxy\Desktop\7mo Semestre 2020A\S - Seminario de Traductores II\Actividad 3\ProyectoFinal_AkinatorMarvel\ProyectoFinal_AkinatorMarvel\obj\Debug\ProyectoFinal_AkinatorMarvel.csproj.GenerateResource.Cache
+C:\Users\Mr_Deluxy\Desktop\7mo Semestre 2020A\S - Seminario de Traductores II\Actividad 3\ProyectoFinal_AkinatorMarvel\ProyectoFinal_AkinatorMarvel\obj\Debug\ProyectoFinal_AkinatorMarvel.exe
+C:\Users\Mr_Deluxy\Desktop\7mo Semestre 2020A\S - Seminario de Traductores II\Actividad 3\ProyectoFinal_AkinatorMarvel\ProyectoFinal_AkinatorMarvel\obj\Debug\ProyectoFinal_AkinatorMarvel.pdb
+C:\Users\Erick\Downloads\ProyectoFinal_AkinatorMarvel-20201130T002601Z-001\ProyectoFinal_AkinatorMarvel\ProyectoFinal_AkinatorMarvel\bin\Debug\ProyectoFinal_AkinatorMarvel.exe.config
+C:\Users\Erick\Downloads\ProyectoFinal_AkinatorMarvel-20201130T002601Z-001\ProyectoFinal_AkinatorMarvel\ProyectoFinal_AkinatorMarvel\bin\Debug\ProyectoFinal_AkinatorMarvel.exe
+C:\Users\Erick\Downloads\ProyectoFinal_AkinatorMarvel-20201130T002601Z-001\ProyectoFinal_AkinatorMarvel\ProyectoFinal_AkinatorMarvel\bin\Debug\ProyectoFinal_AkinatorMarvel.pdb
+C:\Users\Erick\Downloads\ProyectoFinal_AkinatorMarvel-20201130T002601Z-001\ProyectoFinal_AkinatorMarvel\ProyectoFinal_AkinatorMarvel\obj\Debug\ProyectoFinal_AkinatorMarvel.csprojAssemblyReference.cache
+C:\Users\Erick\Downloads\ProyectoFinal_AkinatorMarvel-20201130T002601Z-001\ProyectoFinal_AkinatorMarvel\ProyectoFinal_AkinatorMarvel\obj\Debug\ProyectoFinal_AkinatorMarvel.Form1.resources
+C:\Users\Erick\Downloads\ProyectoFinal_AkinatorMarvel-20201130T002601Z-001\ProyectoFinal_AkinatorMarvel\ProyectoFinal_AkinatorMarvel\obj\Debug\ProyectoFinal_AkinatorMarvel.Properties.Resources.resources
+C:\Users\Erick\Downloads\ProyectoFinal_AkinatorMarvel-20201130T002601Z-001\ProyectoFinal_AkinatorMarvel\ProyectoFinal_AkinatorMarvel\obj\Debug\ProyectoFinal_AkinatorMarvel.csproj.GenerateResource.cache
+C:\Users\Erick\Downloads\ProyectoFinal_AkinatorMarvel-20201130T002601Z-001\ProyectoFinal_AkinatorMarvel\ProyectoFinal_AkinatorMarvel\obj\Debug\ProyectoFinal_AkinatorMarvel.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Downloads\ProyectoFinal_AkinatorMarvel-20201130T002601Z-001\ProyectoFinal_AkinatorMarvel\ProyectoFinal_AkinatorMarvel\obj\Debug\ProyectoFinal_AkinatorMarvel.exe
+C:\Users\Erick\Downloads\ProyectoFinal_AkinatorMarvel-20201130T002601Z-001\ProyectoFinal_AkinatorMarvel\ProyectoFinal_AkinatorMarvel\obj\Debug\ProyectoFinal_AkinatorMarvel.pdb
+C:\Users\Erick\Downloads\ProyectoFinal_AkinatorMarvel-20201130T002601Z-001\ProyectoFinal_AkinatorMarvel\ProyectoFinal_AkinatorMarvel\bin\Debug\MySql.Data.dll
+C:\Users\Erick\Downloads\ProyectoFinal_AkinatorMarvel-20201130T002601Z-001\ProyectoFinal_AkinatorMarvel\ProyectoFinal_AkinatorMarvel\bin\Debug\Google.Protobuf.dll
+C:\Users\Erick\Downloads\ProyectoFinal_AkinatorMarvel-20201130T002601Z-001\ProyectoFinal_AkinatorMarvel\ProyectoFinal_AkinatorMarvel\bin\Debug\MySql.Data.xml
+C:\Users\Erick\Downloads\ProyectoFinal_AkinatorMarvel-20201130T002601Z-001\ProyectoFinal_AkinatorMarvel\ProyectoFinal_AkinatorMarvel\obj\Debug\ProyectoFinal_AkinatorMarvel.csproj.CopyComplete
